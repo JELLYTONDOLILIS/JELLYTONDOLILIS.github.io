@@ -1,0 +1,209 @@
+FIKTI
+Home  BERITA UMUM
+100+ Macam-Macam Properti Dasar CSS dan Kegunaanya
+yogapramana by yogapramana  July 11, 2022
+100+ Macam-Macam Properti Dasar CSS dan Kegunaanya
+0
+SHARES
+Properti Latar Belakang
+background Menentukan berbagai properti latar belakang dalam satu deklarasi.
+background-attachment Menentukan apakah gambar latar belakang diperbaiki atau menggulir dengan halaman web.
+background-color Menentukan warna latar belakang elemen pada halaman web.
+background-image Menentukan gambar latar belakang suatu elemen.
+background-clip Menentukan seberapa jauh gambar latar atau warna memanjang untuk suatu elemen.
+
+background-origin Menentukan area posisi gambar latar belakang.
+background-position Menentukan asal dari gambar latar belakang.
+background-repeat Menentukan bagaimana ubin gambar latar belakang.
+background-size Menentukan ukuran gambar latar belakang.
+Properti Perbatasan
+border Mengatur lebar, gaya, dan warna batas untuk keempat sisi elemen.
+border-bottom Mengatur lebar, gaya, dan warna untuk batas bawah suatu elemen.
+border-bottom-color Mengatur warna batas bawah suatu elemen.
+border-bottom-left-radius Menentukan bentuk sudut batas kiri bawah elemen.
+border-bottom-right-radius Menentukan bentuk sudut batas kanan bawah elemen.
+border-bottom-style Mengatur gaya batas bawah elemen.
+border-bottom-width Mengatur lebar batas bawah suatu elemen.
+border-color Mengatur warna batas pada keempat sisi elemen.
+border-image Menentukan bagaimana gambar akan digunakan sebagai pengganti gaya perbatasan.
+border-image-outset Menentukan jumlah yang digunakan area batas gambar melampaui kotak batas.
+border-image-repeat Menentukan bagaimana gambar perbatasan ubin.
+border-image-slice Menentukan offset ke dalam dari batas-gambar.
+
+border-image-source Menentukan lokasi gambar yang akan digunakan sebagai perbatasan.
+border-image-width Menentukan lebar batas gambar.
+border-left Mengatur lebar, gaya, dan warna batas kiri suatu elemen.
+border-left-color Mengatur warna batas kiri elemen.
+border-left-style Mengatur gaya batas kiri elemen.
+border-left-width Mengatur lebar batas kiri suatu elemen.
+border-radius Menentukan bentuk sudut batas elemen.
+border-right Mengatur lebar, gaya, dan warna batas kanan suatu elemen.
+border-right-color Mengatur warna batas kanan suatu elemen.
+border-right-style Mengatur gaya batas kanan elemen.
+border-right-width Mengatur lebar batas kanan elemen.
+border-style Mengatur gaya perbatasan pada keempat sisi elemen.
+
+border-top Mengatur lebar, gaya, dan warna batas atas suatu elemen.
+border-top-color Mengatur warna batas atas suatu elemen.
+border-top-left-radius Menentukan bentuk sudut batas kiri atas suatu elemen.
+border-top-right-radius Menentukan bentuk sudut batas kanan atas suatu elemen.
+border-top-style Mengatur gaya batas atas elemen.
+border-top-width Mengatur lebar batas atas suatu elemen.
+border-width Mengatur lebar batas pada keempat sisi elemen.
+Properti Warna
+color Menentukan dan menetapkan warna untuk teks.
+opacity Menentukan transparansi elemen.
+Properti Dimensi
+height Menentukan tinggi suatu elemen.
+max-height Menentukan ketinggian maksimum suatu elemen.
+max-width Menentukan lebar maksimum suatu elemen.
+min-height Menentukan ketinggian minimum suatu elemen.
+min-width Menentukan lebar minimum suatu elemen.
+
+width Tentukan lebar elemen.
+Properti Konten yang Dihasilkan
+Sisipan konten yang dihasilkan konten.
+Kutipan Menentukan tanda kutip untuk kutipan tertanam.
+reset-reset Membuat atau mengatur ulang satu atau lebih penghitung.
+counter-increment Meningkatkan satu atau lebih nilai counter.
+Tata Letak Kotak Fleksibel
+align-content Menentukan perataan item-item wadah fleksibel.
+align-items Menentukan perataan standar untuk item.
+align-self Menentukan pelurusan untuk item yang dipilih.
+flex Menentukan komponen dengan panjang yang fleksibel.
+flex-basis Menentukan ukuran utama awal item flex.
+flex-direction Menentukan arah item fleksibel.
+flex-flow Sebuah properti singkatan untuk arah fleksibel dan properti wrap-flex.
+flex-grow Menentukan bagaimana item flex akan tumbuh relatif terhadap item lain di dalam wadah flex.
+
+flex-shrink Menentukan bagaimana item flex akan menyusut relatif terhadap item lain di dalam wadah flex.
+flex-wrap Menentukan apakah item fleksibel harus dibungkus atau tidak.
+justify-content Menentukan bagaimana item fleksibel disejajarkan di sepanjang sumbu utama wadah fleksibel setelah setiap panjang fleksibel dan margin otomatis telah diselesaikan.
+order Menentukan urutan tampilan item flex dan diletakkan dalam wadah flex.
+Properti Font
+font Mendefinisikan berbagai properti font dalam satu deklarasi seperti font-style, font-varian, font-weight, font-size / line-height, dan font-family.
+
+font-family Menentukan daftar font untuk elemen.
+font-size Menentukan ukuran font untuk teks.
+font-size-Adjust Mempertahankan keterbacaan teks saat font fallback terjadi.
+font-stretch Memilih wajah normal, terkondensasi, atau diperluas dari font.
+font-style Mendefinisikan gaya font untuk teks.
+font-variant Menentukan varian font.
+font-weight Menentukan berat font teks.
+Daftar Properti
+daftar-gaya Menentukan gaya tampilan untuk daftar dan elemen daftar.
+list-style-image Menentukan gambar yang akan digunakan sebagai penanda daftar-item.
+list-style-position Menentukan posisi marker daftar-item.
+list-style-type Menentukan gaya marker untuk daftar-item.
+Properti Margin
+margin Mengatur margin pada keempat sisi elemen.
+margin-bottom Mengatur margin bawah elemen.
+margin-left Mengatur margin kiri elemen.
+margin-right Mengatur margin kanan elemen.
+margin-top Mengatur margin atas elemen.
+Properti Tata Letak Multi-Kolom
+kolom-count Menentukan jumlah kolom dalam elemen multi-kolom.
+
+kolom-isi Menentukan bagaimana kolom akan diisi.
+gap-kolom Menentukan celah antara kolom dalam elemen multi-kolom.
+kolom-aturan Menentukan garis lurus, atau “aturan”, yang akan ditarik di antara setiap kolom dalam elemen multi-kolom.
+kolom-aturan-warna Menentukan warna aturan yang ditarik di antara kolom dalam tata letak multi-kolom.
+kolom-aturan-gaya Menentukan gaya aturan yang dibuat di antara kolom dalam tata letak multi-kolom.
+
+kolom-aturan-lebar Menentukan lebar aturan yang dibuat di antara kolom dalam tata letak multi-kolom.
+span-kolom Menentukan berapa banyak kolom yang direntang elemen dalam tata letak multi-kolom.
+lebar kolom Menentukan lebar optimal kolom dalam elemen multi-kolom.
+kolom Properti singkatan untuk mengatur lebar kolom dan properti penghitungan kolom.
+kolom-count Menentukan jumlah kolom dalam elemen multi-kolom.
+Properti Garis Besar
+outline Mengatur lebar, gaya, dan warna untuk keempat sisi garis besar elemen.
+outline-color Mengatur warna garis besar.
+outline-offset Mengatur jarak antara garis besar dan tepi batas elemen.
+outline-style Mengatur gaya untuk outline.
+outline-width Mengatur lebar outline.
+Properti Padding
+padding Mengatur padding pada keempat sisi elemen.
+padding-bottom Mengatur padding ke sisi bawah elemen.
+padding-left Mengatur padding ke sisi kiri elemen.
+padding-right Mengatur padding ke sisi kanan elemen.
+padding-top Mengatur padding ke sisi atas elemen.
+Print Properties
+page-break-after Menyisipkan page break setelah elemen.
+page-break-before Menyisipkan page break sebelum elemen.
+page-break-inside Menyisipkan page break di dalam suatu elemen.
+
+Properti Tabel
+border-collapse Menentukan apakah perbatasan sel tabel terhubung atau dipisahkan.
+border-spacing Mengatur jarak antara batas sel tabel yang berdekatan.
+sisi keterangan Menentukan posisi keterangan tabel.
+sel kosong Menunjukkan atau menyembunyikan batas dan latar belakang sel tabel kosong.
+table-layout Menentukan algoritma tata letak tabel.
+border-collapse Menentukan apakah perbatasan sel tabel terhubung atau dipisahkan.
+Properti Teks
+direction Menentukan arah teks / arah penulisan.
+tab-size Menentukan panjang karakter tab.
+text-align Menetapkan perataan horisontal konten inline.
+text-align-last Menentukan bagaimana baris terakhir dari sebuah blok atau sebuah baris tepat sebelum jeda baris paksa disejajarkan ketika text-align dibenarkan.
+text-decoration Menentukan dekorasi yang ditambahkan ke teks.
+text-decoration-color Menentukan warna text-decoration-line.
+text-decoration-line Menentukan jenis dekorasi garis apa yang ditambahkan ke elemen.
+text-decoration-style Menentukan gaya garis yang ditentukan oleh properti teks-dekorasi-garis
+text-indent Membuat indentasi pada baris pertama teks.
+text-justify Menentukan metode justifikasi untuk digunakan ketika properti text-align diatur untuk dibenarkan.
+
+text-overflow Menentukan bagaimana konten teks akan ditampilkan, ketika meluap kontainer blok.
+text-shadow Menerapkan satu atau lebih bayangan ke konten teks suatu elemen.
+text-transform Mengubah kasus teks.
+line-height Mengatur tinggi antar baris teks.
+vertical-align Mengatur posisi vertikal suatu elemen relatif terhadap baseline teks saat ini.
+letter-spacing Mengatur jarak ekstra antar huruf.
+word-spacing Mengatur jarak antar kata.
+white-space Menentukan bagaimana ruang putih di dalam elemen ditangani.
+word-break Menentukan cara memecah baris dalam kata-kata.
+word-wrap Menentukan apakah akan memecah kata-kata ketika konten melampaui batas-batas wadahnya.
+
+Ubah Properti
+
+visibilitas-muka-belakang Menentukan apakah sisi “belakang” elemen yang ditransformasikan terlihat saat menghadap pengguna.
+perspektif Menentukan perspektif dari mana semua elemen anak dari objek dilihat.
+perspektif-asal Menentukan asal (titik hilang untuk ruang 3D) untuk properti perspektif.
+transform Menerapkan transformasi 2D atau 3D ke elemen.
+transform-origin Menentukan asal-usul transformasi untuk suatu elemen.
+transform-style Menentukan bagaimana elemen bersarang ditampilkan dalam ruang 3D.
+Properti Transisi
+Transisi Menentukan transisi antara dua keadaan elemen.
+transisi-delay Menentukan kapan efek transisi akan mulai.
+durasi transisi Menentukan jumlah detik atau milidetik yang harus diselesaikan oleh efek transisi.
+properti transisi Menentukan nama properti CSS yang akan menerapkan efek transisi.
+transisi-waktu-fungsi Menentukan kurva kecepatan efek transisi.
+Properti Pemformatan Visual
+display Menentukan bagaimana elemen ditampilkan di layar.
+position Menentukan bagaimana suatu elemen diposisikan.
+top Menentukan lokasi tepi atas elemen yang diposisikan.
+right Menentukan lokasi tepi kanan elemen yang diposisikan.
+bawah Menentukan lokasi tepi bawah elemen yang diposisikan.
+kiri Menentukan lokasi tepi kiri elemen yang diposisikan.
+float Menentukan apakah kotak harus mengapung atau tidak.
+clear Menentukan penempatan elemen terkait dengan elemen mengambang.
+z-index Menentukan urutan layering atau susun untuk elemen yang diposisikan.
+overflow Menentukan perlakuan konten yang melebihi kotak elemen.
+overflow-x Menentukan bagaimana mengelola konten ketika meluap lebar area konten elemen.
+overflow-y Menentukan cara mengelola konten saat meluap dari ketinggian area konten elemen.
+
+resize Menentukan apakah suatu elemen dapat diubah ukurannya atau tidak oleh pengguna.
+clip Menentukan wilayah kliping.
+visibilitas Menentukan apakah suatu elemen terlihat atau tidak.
+kursor Menentukan jenis kursor.
+box-shadow Menerapkan satu atau lebih drop-shadows ke kotak elemen.
+box-sizing Mengubah model kotak CSS default.
+Properti Animasi
+animasi Menentukan perilaku semua animasi.
+animation-delay Menentukan kapan animasi akan dimulai dengan penundaan.
+arah-animasi Menentukan apakah animasi harus diputar maju, mundur, atau dalam siklus alternatif.
+animasi-durasi Menentukan jumlah detik atau milidetik yang harus dilakukan animasi untuk menyelesaikan satu siklus.
+
+animation-fill-mode Menentukan bagaimana animasi CSS harus menerapkan gaya ke target sebelum dan sesudah dijalankan.
+animation-iteration-count Menentukan berapa kali siklus animasi harus dimainkan sebelum berhenti.
+animation-name Menentukan nama animasi yang ditentukan @keyframes yang harus diterapkan pada elemen yang dipilih.
+animation-play-state Menentukan apakah animasi sedang berjalan atau dihentikan sementara.
+animation-timing-function Menentukan bagaimana animasi CSS seharusnya berkembang selama durasi setiap siklus.
